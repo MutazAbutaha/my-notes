@@ -47,5 +47,5 @@ Secure Socket Shell, is a network protocol that gives users system administrator
 ## ACP Cycle
 1. Working Area - code - ***git add .*** 
 2. Staging Area - commit - ***git commit -m "descrpition"***
-3. Local Repo - push - git ***push  origin main***
+3. Local Repo - push - ***git push  origin main***
 4. Remote Repo 
